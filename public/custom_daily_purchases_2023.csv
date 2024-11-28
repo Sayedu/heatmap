@@ -1,0 +1,366 @@
+date,total_cost,items_bought
+2023-01-01,85.7,"Books, Bread, Electronics"
+2023-01-02,67.74,"Bread, Books"
+2023-01-03,101.66,"Snacks, Stationery, Fruit"
+2023-01-04,86.59,"Bread, Milk, Bread"
+2023-01-05,42.25,Fruit
+2023-01-06,76.4,"Stationery, Fruit, Fruit"
+2023-01-07,41.89,"Eggs, Coffee"
+2023-01-08,78.55,"Snacks, Eggs, Coffee, Snacks"
+2023-01-09,16.69,"Snacks, Electronics"
+2023-01-10,15.26,"Stationery, Vegetables"
+2023-01-11,163.65,"Coffee, Vegetables, Bread, Eggs, Milk"
+2023-01-12,67.54,"Fruit, Snacks"
+2023-01-13,159.95,"Electronics, Snacks, Electronics, Eggs, Coffee"
+2023-01-14,134.87,"Snacks, Fruit, Eggs, Fruit, Books"
+2023-01-15,60.0,"Stationery, Milk, Snacks, Stationery, Snacks"
+2023-01-16,113.01,"Electronics, Stationery, Vegetables, Stationery, Vegetables"
+2023-01-17,31.28,Eggs
+2023-01-18,51.62,"Electronics, Bread"
+2023-01-19,96.16,"Books, Eggs, Fruit, Stationery"
+2023-01-20,76.3,"Electronics, Fruit"
+2023-01-21,111.47,"Milk, Electronics, Electronics, Vegetables, Vegetables"
+2023-01-22,26.37,Milk
+2023-01-23,25.75,Fruit
+2023-01-24,154.33,"Eggs, Electronics, Eggs, Electronics, Coffee"
+2023-01-25,20.33,Milk
+2023-01-26,69.61,"Milk, Electronics"
+2023-01-27,66.59,"Electronics, Milk, Milk"
+2023-01-28,47.2,"Snacks, Stationery, Vegetables"
+2023-01-29,52.2,"Bread, Books, Bread, Fruit, Eggs"
+2023-01-30,60.65,"Stationery, Bread"
+2023-01-31,108.27,"Books, Coffee, Vegetables, Vegetables"
+2023-02-01,125.84,"Stationery, Milk, Stationery, Coffee"
+2023-02-02,154.96,"Bread, Books, Eggs, Books, Bread"
+2023-02-03,93.48,"Vegetables, Eggs, Vegetables, Fruit"
+2023-02-04,50.45,"Vegetables, Bread"
+2023-02-05,58.11,"Books, Electronics"
+2023-02-06,59.76,"Eggs, Fruit"
+2023-02-07,38.12,Milk
+2023-02-08,151.01,"Stationery, Fruit, Milk, Fruit, Vegetables"
+2023-02-09,36.68,Fruit
+2023-02-10,55.11,"Milk, Bread"
+2023-02-11,22.0,Coffee
+2023-02-12,45.39,"Milk, Eggs, Milk, Stationery"
+2023-02-13,43.96,Milk
+2023-02-14,55.85,"Snacks, Milk"
+2023-02-15,41.8,Stationery
+2023-02-16,100.57,"Bread, Eggs, Coffee, Coffee"
+2023-02-17,140.93,"Eggs, Bread, Bread, Stationery, Vegetables"
+2023-02-18,114.51,"Eggs, Books, Books, Fruit, Milk"
+2023-02-19,23.45,Eggs
+2023-02-20,48.08,"Books, Bread"
+2023-02-21,21.21,Coffee
+2023-02-22,72.81,"Stationery, Milk, Books, Stationery"
+2023-02-23,87.96,"Eggs, Stationery"
+2023-02-24,27.68,Stationery
+2023-02-25,13.09,Books
+2023-02-26,106.23,"Milk, Stationery, Milk, Eggs, Snacks"
+2023-02-27,43.51,"Milk, Eggs"
+2023-02-28,169.91,"Books, Milk, Electronics, Stationery, Books"
+2023-03-01,99.23,"Coffee, Stationery, Vegetables, Electronics, Snacks"
+2023-03-02,48.34,Bread
+2023-03-03,37.59,"Books, Electronics"
+2023-03-04,104.81,"Milk, Fruit, Books, Stationery"
+2023-03-05,118.08,"Electronics, Fruit, Bread, Bread, Snacks"
+2023-03-06,59.57,"Electronics, Books, Books, Snacks"
+2023-03-07,54.86,"Books, Bread, Vegetables"
+2023-03-08,166.43,"Bread, Stationery, Eggs, Milk"
+2023-03-09,135.65,"Snacks, Books, Vegetables, Milk, Coffee"
+2023-03-10,70.54,"Stationery, Bread, Vegetables"
+2023-03-11,55.88,"Milk, Milk"
+2023-03-12,124.47,"Snacks, Stationery, Electronics, Vegetables"
+2023-03-13,13.52,Fruit
+2023-03-14,77.58,"Snacks, Vegetables, Snacks, Electronics"
+2023-03-15,120.14,"Coffee, Milk, Fruit"
+2023-03-16,93.26,"Snacks, Vegetables, Books, Snacks, Stationery"
+2023-03-17,41.28,Stationery
+2023-03-18,156.69,"Vegetables, Vegetables, Fruit, Bread, Stationery"
+2023-03-19,57.22,"Milk, Bread, Coffee"
+2023-03-20,154.19,"Electronics, Vegetables, Bread, Eggs, Milk"
+2023-03-21,97.33,"Eggs, Eggs, Fruit, Vegetables"
+2023-03-22,34.88,"Eggs, Stationery"
+2023-03-23,164.33,"Snacks, Bread, Vegetables, Fruit, Books"
+2023-03-24,34.74,"Bread, Snacks, Books"
+2023-03-25,95.41,"Stationery, Coffee, Eggs, Snacks"
+2023-03-26,129.79,"Milk, Snacks, Fruit, Milk, Books"
+2023-03-27,56.38,"Snacks, Bread, Books, Electronics"
+2023-03-28,134.69,"Vegetables, Vegetables, Snacks, Electronics"
+2023-03-29,56.8,"Snacks, Milk, Stationery"
+2023-03-30,51.26,"Vegetables, Milk"
+2023-03-31,123.3,"Stationery, Books, Books, Vegetables"
+2023-04-01,165.2,"Fruit, Bread, Fruit, Stationery, Electronics"
+2023-04-02,57.48,"Stationery, Bread, Stationery"
+2023-04-03,28.72,Milk
+2023-04-04,47.54,"Milk, Bread"
+2023-04-05,60.24,"Electronics, Books, Snacks"
+2023-04-06,16.08,Milk
+2023-04-07,39.66,"Electronics, Vegetables"
+2023-04-08,102.44,"Snacks, Vegetables, Electronics, Vegetables, Eggs"
+2023-04-09,96.58,"Fruit, Electronics, Stationery"
+2023-04-10,46.54,"Bread, Eggs"
+2023-04-11,68.0,"Snacks, Vegetables, Eggs"
+2023-04-12,48.2,"Milk, Coffee"
+2023-04-13,78.28,"Snacks, Bread, Milk, Snacks, Eggs"
+2023-04-14,38.59,"Coffee, Coffee, Bread"
+2023-04-15,37.45,"Milk, Eggs"
+2023-04-16,58.24,"Eggs, Bread, Eggs"
+2023-04-17,90.19,"Snacks, Fruit, Snacks"
+2023-04-18,45.59,Vegetables
+2023-04-19,53.9,"Fruit, Books"
+2023-04-20,44.9,"Eggs, Eggs"
+2023-04-21,92.19,"Bread, Bread, Fruit, Coffee, Vegetables"
+2023-04-22,86.43,"Snacks, Bread, Stationery, Books"
+2023-04-23,80.2,"Bread, Vegetables, Fruit, Electronics"
+2023-04-24,130.66,"Electronics, Snacks, Stationery, Books"
+2023-04-25,33.49,"Stationery, Stationery, Bread, Snacks"
+2023-04-26,111.01,"Bread, Snacks, Snacks"
+2023-04-27,44.35,Coffee
+2023-04-28,129.14,"Snacks, Snacks, Bread"
+2023-04-29,66.67,"Eggs, Snacks"
+2023-04-30,60.23,"Electronics, Stationery"
+2023-05-01,108.16,"Coffee, Stationery, Electronics"
+2023-05-02,76.67,"Stationery, Snacks, Coffee, Fruit"
+2023-05-03,99.85,"Eggs, Bread, Electronics, Electronics"
+2023-05-04,125.09,"Vegetables, Snacks, Snacks, Books, Coffee"
+2023-05-05,31.3,Stationery
+2023-05-06,137.37,"Electronics, Stationery, Vegetables, Snacks"
+2023-05-07,9.08,Electronics
+2023-05-08,133.0,"Books, Fruit, Vegetables, Fruit, Fruit"
+2023-05-09,93.81,"Electronics, Vegetables, Eggs, Bread"
+2023-05-10,35.89,"Milk, Milk"
+2023-05-11,130.21,"Coffee, Bread, Bread, Electronics, Eggs"
+2023-05-12,31.38,Bread
+2023-05-13,84.58,"Milk, Stationery, Eggs, Fruit"
+2023-05-14,90.42,"Bread, Vegetables, Stationery, Fruit, Vegetables"
+2023-05-15,49.35,Coffee
+2023-05-16,9.66,Stationery
+2023-05-17,65.75,"Stationery, Electronics, Snacks"
+2023-05-18,112.01,"Fruit, Snacks, Electronics, Books"
+2023-05-19,44.97,"Snacks, Electronics"
+2023-05-20,13.63,Books
+2023-05-21,57.25,"Snacks, Bread, Snacks"
+2023-05-22,160.81,"Stationery, Electronics, Coffee, Vegetables, Stationery"
+2023-05-23,55.67,"Snacks, Fruit"
+2023-05-24,45.93,Eggs
+2023-05-25,101.27,"Coffee, Books, Stationery, Bread, Stationery"
+2023-05-26,47.71,Milk
+2023-05-27,11.86,Vegetables
+2023-05-28,202.84,"Eggs, Vegetables, Eggs, Electronics, Bread"
+2023-05-29,95.13,"Snacks, Electronics, Milk, Electronics"
+2023-05-30,181.31,"Stationery, Coffee, Snacks, Bread, Fruit"
+2023-05-31,123.91,"Coffee, Electronics, Vegetables, Books"
+2023-06-01,67.14,"Books, Electronics, Snacks"
+2023-06-02,140.92,"Vegetables, Electronics, Vegetables, Milk, Bread"
+2023-06-03,12.7,Milk
+2023-06-04,80.94,"Eggs, Coffee"
+2023-06-05,6.81,Stationery
+2023-06-06,45.63,Snacks
+2023-06-07,155.42,"Books, Electronics, Bread, Stationery, Electronics"
+2023-06-08,109.91,"Fruit, Eggs, Bread"
+2023-06-09,142.9,"Stationery, Electronics, Fruit, Eggs, Electronics"
+2023-06-10,71.44,"Fruit, Books"
+2023-06-11,26.33,"Stationery, Eggs"
+2023-06-12,22.61,Books
+2023-06-13,91.19,"Electronics, Eggs, Eggs, Eggs"
+2023-06-14,34.97,Milk
+2023-06-15,30.68,Eggs
+2023-06-16,89.64,"Electronics, Milk, Coffee, Fruit"
+2023-06-17,82.08,"Milk, Milk, Vegetables"
+2023-06-18,165.63,"Milk, Snacks, Milk, Electronics"
+2023-06-19,82.18,"Snacks, Milk"
+2023-06-20,26.49,Bread
+2023-06-21,16.54,Books
+2023-06-22,11.8,Bread
+2023-06-23,176.89,"Electronics, Snacks, Electronics, Stationery, Fruit"
+2023-06-24,54.73,"Stationery, Stationery"
+2023-06-25,139.36,"Stationery, Fruit, Snacks, Bread, Bread"
+2023-06-26,43.19,"Coffee, Eggs"
+2023-06-27,13.21,Books
+2023-06-28,44.78,Coffee
+2023-06-29,112.61,"Books, Vegetables, Snacks, Books, Milk"
+2023-06-30,120.07,"Vegetables, Books, Snacks, Coffee"
+2023-07-01,35.34,"Electronics, Bread"
+2023-07-02,52.17,"Vegetables, Books"
+2023-07-03,84.71,"Eggs, Stationery, Books"
+2023-07-04,161.76,"Stationery, Coffee, Stationery, Books, Bread"
+2023-07-05,8.0,Coffee
+2023-07-06,46.82,Bread
+2023-07-07,89.09,"Stationery, Eggs, Stationery, Milk, Electronics"
+2023-07-08,55.0,"Coffee, Snacks"
+2023-07-09,115.37,"Electronics, Milk, Stationery, Snacks, Electronics"
+2023-07-10,135.23,"Eggs, Coffee, Coffee, Fruit"
+2023-07-11,26.68,Vegetables
+2023-07-12,156.96,"Fruit, Bread, Milk, Books, Fruit"
+2023-07-13,26.61,"Milk, Vegetables"
+2023-07-14,114.72,"Vegetables, Coffee, Snacks"
+2023-07-15,108.27,"Stationery, Electronics, Snacks, Electronics"
+2023-07-16,39.91,"Fruit, Vegetables"
+2023-07-17,35.77,Eggs
+2023-07-18,111.23,"Books, Electronics, Electronics, Stationery, Books"
+2023-07-19,42.18,"Fruit, Snacks, Fruit"
+2023-07-20,64.23,"Bread, Vegetables, Bread"
+2023-07-21,84.73,"Stationery, Coffee, Snacks, Electronics, Books"
+2023-07-22,103.56,"Snacks, Fruit, Books, Eggs"
+2023-07-23,114.65,"Electronics, Milk, Stationery, Fruit"
+2023-07-24,7.48,Eggs
+2023-07-25,59.28,"Stationery, Eggs"
+2023-07-26,114.7,"Eggs, Stationery, Eggs, Coffee"
+2023-07-27,72.48,"Bread, Milk"
+2023-07-28,63.43,"Eggs, Milk, Bread, Electronics"
+2023-07-29,51.15,"Bread, Bread, Bread"
+2023-07-30,63.32,"Coffee, Electronics"
+2023-07-31,100.0,"Eggs, Vegetables, Fruit, Books"
+2023-08-01,129.6,"Eggs, Vegetables, Milk, Milk, Books"
+2023-08-02,84.96,"Coffee, Coffee, Electronics"
+2023-08-03,96.16,"Fruit, Milk, Fruit, Milk, Milk"
+2023-08-04,78.65,"Stationery, Vegetables, Fruit, Stationery"
+2023-08-05,121.4,"Snacks, Electronics, Vegetables, Books"
+2023-08-06,25.89,"Coffee, Books"
+2023-08-07,50.99,"Milk, Fruit"
+2023-08-08,93.14,"Electronics, Vegetables, Vegetables, Snacks, Books"
+2023-08-09,37.52,"Books, Coffee"
+2023-08-10,100.43,"Books, Milk, Coffee, Fruit"
+2023-08-11,89.66,"Books, Eggs, Vegetables, Coffee, Snacks"
+2023-08-12,99.3,"Electronics, Milk, Vegetables, Snacks"
+2023-08-13,142.73,"Vegetables, Eggs, Fruit, Books"
+2023-08-14,41.69,"Eggs, Snacks"
+2023-08-15,12.26,Vegetables
+2023-08-16,13.71,"Coffee, Coffee"
+2023-08-17,91.94,"Vegetables, Stationery, Fruit, Coffee"
+2023-08-18,62.67,"Coffee, Fruit, Coffee, Vegetables"
+2023-08-19,135.39,"Books, Books, Milk, Coffee, Snacks"
+2023-08-20,21.44,"Books, Eggs"
+2023-08-21,27.04,Stationery
+2023-08-22,25.43,"Vegetables, Vegetables"
+2023-08-23,45.73,"Eggs, Books, Eggs"
+2023-08-24,32.63,Fruit
+2023-08-25,24.39,Stationery
+2023-08-26,30.57,"Milk, Eggs"
+2023-08-27,72.58,"Bread, Books"
+2023-08-28,133.73,"Electronics, Stationery, Books, Stationery, Electronics"
+2023-08-29,48.66,Bread
+2023-08-30,31.4,Books
+2023-08-31,33.27,"Bread, Milk"
+2023-09-01,28.6,Coffee
+2023-09-02,139.72,"Books, Milk, Milk, Fruit, Books"
+2023-09-03,55.07,"Bread, Milk"
+2023-09-04,146.02,"Bread, Bread, Milk, Eggs"
+2023-09-05,44.93,Stationery
+2023-09-06,8.11,Snacks
+2023-09-07,60.99,"Stationery, Eggs, Electronics, Bread"
+2023-09-08,25.03,Electronics
+2023-09-09,18.06,Coffee
+2023-09-10,29.09,"Fruit, Coffee, Vegetables"
+2023-09-11,24.26,"Fruit, Snacks"
+2023-09-12,66.52,"Bread, Milk, Coffee"
+2023-09-13,61.03,"Stationery, Books, Fruit"
+2023-09-14,92.97,"Vegetables, Stationery, Coffee, Stationery"
+2023-09-15,17.64,"Books, Books"
+2023-09-16,15.38,Snacks
+2023-09-17,115.33,"Bread, Stationery, Vegetables, Snacks"
+2023-09-18,169.85,"Snacks, Books, Vegetables, Books, Milk"
+2023-09-19,106.0,"Vegetables, Bread, Electronics, Bread"
+2023-09-20,126.95,"Milk, Snacks, Fruit, Stationery, Milk"
+2023-09-21,21.33,"Vegetables, Bread, Electronics"
+2023-09-22,48.29,Stationery
+2023-09-23,129.55,"Coffee, Bread, Vegetables"
+2023-09-24,56.61,"Snacks, Fruit"
+2023-09-25,134.63,"Vegetables, Milk, Stationery, Milk"
+2023-09-26,77.01,"Bread, Coffee"
+2023-09-27,67.68,"Eggs, Bread, Fruit"
+2023-09-28,48.83,Books
+2023-09-29,62.89,"Coffee, Bread, Vegetables"
+2023-09-30,102.31,"Fruit, Stationery, Books, Vegetables, Electronics"
+2023-10-01,61.92,"Bread, Coffee, Eggs, Books"
+2023-10-02,41.87,"Stationery, Books"
+2023-10-03,83.9,"Bread, Fruit, Snacks"
+2023-10-04,29.38,Snacks
+2023-10-05,130.79,"Books, Eggs, Eggs, Bread, Electronics"
+2023-10-06,122.13,"Books, Milk, Coffee"
+2023-10-07,57.22,"Vegetables, Coffee"
+2023-10-08,60.06,"Milk, Stationery, Bread"
+2023-10-09,115.19,"Eggs, Books, Eggs, Electronics"
+2023-10-10,68.54,"Fruit, Vegetables"
+2023-10-11,12.89,Electronics
+2023-10-12,43.9,"Vegetables, Electronics"
+2023-10-13,83.49,"Bread, Snacks"
+2023-10-14,49.8,Coffee
+2023-10-15,107.63,"Books, Electronics, Snacks, Vegetables, Stationery"
+2023-10-16,92.02,"Eggs, Snacks, Milk, Electronics"
+2023-10-17,32.86,"Coffee, Coffee"
+2023-10-18,98.44,"Stationery, Snacks, Snacks, Books"
+2023-10-19,60.48,"Electronics, Vegetables"
+2023-10-20,100.93,"Bread, Milk, Vegetables, Milk"
+2023-10-21,64.0,"Vegetables, Books"
+2023-10-22,101.19,"Books, Milk, Coffee"
+2023-10-23,69.74,"Books, Snacks, Stationery"
+2023-10-24,31.78,"Vegetables, Coffee"
+2023-10-25,22.29,Vegetables
+2023-10-26,99.96,"Bread, Milk, Coffee, Stationery, Coffee"
+2023-10-27,33.68,Snacks
+2023-10-28,129.9,"Fruit, Stationery, Snacks, Eggs"
+2023-10-29,59.19,"Vegetables, Eggs"
+2023-10-30,25.86,"Coffee, Vegetables"
+2023-10-31,127.4,"Eggs, Books, Books, Snacks"
+2023-11-01,38.12,"Books, Books"
+2023-11-02,47.92,"Snacks, Snacks, Milk, Vegetables"
+2023-11-03,85.02,"Eggs, Vegetables, Coffee, Electronics"
+2023-11-04,128.11,"Books, Bread, Electronics, Stationery, Vegetables"
+2023-11-05,107.82,"Electronics, Electronics, Eggs"
+2023-11-06,82.22,"Vegetables, Electronics, Milk, Vegetables"
+2023-11-07,129.65,"Coffee, Bread, Stationery, Books, Snacks"
+2023-11-08,82.37,"Coffee, Electronics, Electronics, Coffee"
+2023-11-09,58.1,"Vegetables, Books"
+2023-11-10,79.14,"Stationery, Books, Coffee"
+2023-11-11,34.83,"Books, Snacks, Stationery"
+2023-11-12,160.33,"Bread, Stationery, Bread, Vegetables, Milk"
+2023-11-13,15.93,Stationery
+2023-11-14,53.05,"Stationery, Bread"
+2023-11-15,46.73,Milk
+2023-11-16,73.92,"Milk, Vegetables, Eggs, Bread"
+2023-11-17,59.21,"Snacks, Fruit, Milk, Stationery"
+2023-11-18,143.42,"Fruit, Bread, Books, Eggs"
+2023-11-19,116.82,"Stationery, Stationery, Snacks, Electronics, Coffee"
+2023-11-20,115.18,"Milk, Electronics, Stationery, Snacks, Snacks"
+2023-11-21,98.81,"Books, Electronics, Electronics, Fruit, Milk"
+2023-11-22,91.08,"Coffee, Snacks, Coffee"
+2023-11-23,47.93,"Stationery, Vegetables"
+2023-11-24,80.81,"Bread, Fruit, Electronics"
+2023-11-25,15.81,Electronics
+2023-11-26,92.27,"Fruit, Coffee, Snacks"
+2023-11-27,48.57,"Vegetables, Bread, Stationery"
+2023-11-28,57.19,"Electronics, Bread"
+2023-11-29,98.79,"Books, Stationery, Books, Fruit, Milk"
+2023-11-30,81.56,"Bread, Coffee, Snacks, Electronics"
+2023-12-01,56.88,"Books, Coffee, Bread, Fruit, Electronics"
+2023-12-02,112.68,"Electronics, Milk, Bread, Coffee"
+2023-12-03,65.63,"Fruit, Milk, Fruit, Fruit, Electronics"
+2023-12-04,66.95,"Books, Snacks, Vegetables"
+2023-12-05,46.22,"Bread, Stationery"
+2023-12-06,84.74,"Vegetables, Vegetables, Snacks"
+2023-12-07,72.94,"Books, Vegetables"
+2023-12-08,88.35,"Milk, Electronics, Electronics"
+2023-12-09,23.73,"Bread, Eggs"
+2023-12-10,23.97,Fruit
+2023-12-11,15.07,Bread
+2023-12-12,90.47,"Milk, Electronics"
+2023-12-13,103.97,"Eggs, Electronics, Milk, Snacks"
+2023-12-14,71.96,"Electronics, Vegetables, Eggs"
+2023-12-15,88.53,"Stationery, Books, Coffee, Eggs"
+2023-12-16,64.61,"Milk, Eggs, Snacks"
+2023-12-17,71.12,"Snacks, Fruit, Coffee, Electronics"
+2023-12-18,21.54,Milk
+2023-12-19,84.08,"Milk, Electronics, Bread, Eggs"
+2023-12-20,109.35,"Books, Books, Vegetables"
+2023-12-21,60.44,"Snacks, Eggs, Books"
+2023-12-22,188.26,"Eggs, Bread, Electronics, Stationery, Coffee"
+2023-12-23,107.08,"Vegetables, Coffee, Bread, Bread"
+2023-12-24,53.23,"Vegetables, Stationery"
+2023-12-25,26.15,Milk
+2023-12-26,90.75,"Electronics, Bread, Stationery, Stationery, Snacks"
+2023-12-27,45.38,"Snacks, Books, Books"
+2023-12-28,65.31,"Snacks, Stationery, Stationery"
+2023-12-29,107.58,"Books, Vegetables, Milk, Snacks"
+2023-12-30,167.65,"Bread, Snacks, Coffee, Eggs, Vegetables"
+2023-12-31,89.08,"Snacks, Vegetables, Fruit"
